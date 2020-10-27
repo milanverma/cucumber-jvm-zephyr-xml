@@ -19,6 +19,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [4.2.0.1] - 2020-02-12
 
+### Added
+
+* Added support for `@` tags to be taken from the feature file and be added as <tag> nodes in the XML results file.  
+
 ### Fixed
 
 * Output `AltID` instead of `ALTID`
